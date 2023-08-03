@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/Carousel.scss"],"names":[],"mappings":"AAAA,OACE,oBAAqB,CCDvB,UACE,eAAgB","file":"main.b5dfde4f.chunk.css","sourcesContent":[".field {\n  margin: 0 20px 30px 0;\n}\n",".Carousel {\n  overflow: hidden;\n}\n"]}
